@@ -1,0 +1,38 @@
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+p{
+    font-size: 25px;
+}
+h1{
+    font-size: 40px;
+}
+#hi
+{
+    background-color: rgb(247, 215, 247);
+    text-align: center;
+}
+#bye
+{
+    background-color: rgb(194, 230, 245);
+    text-align: center;  
+}
+#how
+{
+    background-color: rgb(204, 204, 245);
+    text-align: center;   
+}
+#good
+{
+    background-color: rgb(243, 199, 219);
+    text-align: center;  
+}
+body{
+    background-color: rgb(91, 82, 224);
+}
